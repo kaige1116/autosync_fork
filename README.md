@@ -1,4 +1,4 @@
-# autosync_fork
+# AutoSync_fork
 
 在 GitHub 中自动同步已 Fork 的上游项目，可以通过以下两种主流方法实现：
 
